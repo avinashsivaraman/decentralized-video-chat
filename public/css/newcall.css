@@ -1,3 +1,11 @@
+.section-inner {
+  height: 80vh;
+}
+
+.cta-slogan {
+  width: 100%;
+}
+
 @media (max-width: 640px) {
   .section:first-of-type {
     min-height: 0;
